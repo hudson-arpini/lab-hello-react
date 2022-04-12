@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;900&display=swap');
+
+
+.header{
+    background-color: rgb(36, 41, 56);
+    color: white;
+}
+
+.react1{
+    width: 350px;
+    position: absolute;
+    left: 800px;
+    top: 30px;
+    opacity: 0.018;
+}
+
+.react2{
+    width: 300px;
+    position: absolute;
+    left: 900px;
+    top: 400px;
+    opacity: 0.018;
+}
+
+.react3{
+    width: 250px;
+    position: absolute;
+    left: 650px;
+    top: 600px;
+    opacity: 0.018;
+}
+
+.react4{
+    width: 150px;
+    position: absolute;
+    left: 1300px;
+    top: 250px;
+    opacity: 0.018;
+}
+
+.react5{
+    width: 150px;
+    position: absolute;
+    left: 1300px;
+    top: 470px;
+    opacity: 0.018;
+}
+
+.react6{
+    width: 150px;
+    position: absolute;
+    left: 1300px;
+    top: 670px;
+    opacity: 0.018;
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons img{
+    margin: 30px 100px;
+    width: 60px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    margin-left: 100px;
+}
+
+.container h1{
+    width: 700px;
+    text-align: left;
+    font-size: 120px;
+    font-family: Roboto 
+}
+
+.container p{
+    width: 550px;
+    text-align: left;
+    font-size: 33px;
+    margin: -80px 0px 90px 10px;
+    color: white;
+    font-family: Roboto;
+    font-weight: 100;
+  
+}
+
+.container button{
+    width: 250px;
+    height: 75px;
+    background-color: white;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: 400;
+    color: rgb(36, 41, 56);
+    margin-bottom: 120px;
+    border-radius: 7px;
+}
